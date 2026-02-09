@@ -1,5 +1,5 @@
-# DESCRIPTION
-Made with love by VIRMSKVLL, Bouquet Suite III is an adaption of Nivvu's Bouquet theme(s) for Windows.
+# ABOUT
+Made with love by VIRMSKVLL, Bouquet Suite III is an adaption of Niivu's Bouquet theme(s) for Windows.
 
 This theme restores the Scientifica Font, the original cursor set (which has been tweaked and ported),
 adapts the window decorations, and even comes with a matching windows .theme file for Wine/Proton
@@ -32,10 +32,10 @@ adapts the window decorations, and even comes with a matching windows .theme fil
 ## (TODO: MAKE MORE DETAILED)
 - Cursors are modified from their original state, included theme assets were painstakingly made by VIRMSKVLL
 - Original Bouquet start logo by VIRMSKVLL
-- Scientifica Font by Nivuu (presumably I'm not sure due to it being lost media now but being part of the original Suite)
-- Color scheme and original design concept by Nivuu
-- Original unmodified cursors by Nivuu
-- Extra icons for explorer from Newatta ripped by Nivuu i think???
+- Scientifica Font by Niivu (presumably I'm not sure due to it being lost media now but being part of the original Suite)
+- Color scheme and original design concept by Niivu
+- Original unmodified cursors by Niivu
+- Extra icons for explorer from Newatta ripped by Niivu i think???
 - Wallpapers include credits were possible from memory, though some have been colour alterered to fit the theme I understand that is not room to take full credit.
 - Modified system24 Discord Theme by refact0r 
 - Hammer++ assets dll belongs to Hammer++ and the valve corperation.
