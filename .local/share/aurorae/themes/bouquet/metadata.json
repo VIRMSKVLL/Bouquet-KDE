@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "VIRMSKVLL"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "bouquet",
+        "Description" : "Bouquet window decorations",
+        "Id": "bouquet",
+        "License": "GPL v3",
+        "Version": "1.0",
+        "X-KDE-PluginInfo-blur": false,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

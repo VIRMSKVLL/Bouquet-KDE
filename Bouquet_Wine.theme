@@ -1,0 +1,69 @@
+[Theme]
+DisplayName=Bouquet_Classic
+
+[Control Panel\Colors]
+ButtonAlternateFace=18 28 33
+ButtonDkShadow=27 42 50
+ButtonFace=18 28 33
+ButtonHilight=27 42 50
+ButtonLight=18 28 33
+ButtonShadow=12 19 22
+ButtonText=240 105 111
+ActiveBorder=18 28 33
+AppWorkspace=56 73 80
+Background=13 21 24
+InactiveBorder=18 28 33
+Scrollbar=27 42 50
+Window=18 28 33
+WindowFrame=0 0 0
+WindowText=240 105 111
+ActiveTitle=240 105 111
+GradientActiveTitle=18 28 33
+GradientInactiveTitle=12 19 22
+InactiveTitle=27 42 50
+InactiveTitleText=56 73 80
+TitleText=222 221 218
+Menu=18 28 33
+MenuBar=56 73 80
+MenuHilight=240 105 111
+MenuText=240 105 111
+GrayText=56 73 80
+Hilight=240 105 111
+HilightText=18 28 33
+HotTrackingColor=240 105 111
+InfoText=240 105 111
+InfoWindow=56 73 80
+Desktop=13 21 24
+TooltipBackground=56 73 80
+
+
+[Control Panel\Desktop]
+Wallpaper=
+TileWallpaper=0
+WallpaperStyle=2
+Pattern=
+ScreenSaveActive=0
+
+[Control Panel\Desktop\WindowMetrics]
+
+[Metrics]
+IconMetrics=76 0 0 0 75 0 0 0 75 0 0 0 1 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+NonclientMetrics=84 1 0 0 1 0 0 0 16 0 0 0 16 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 0 0 0 15 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 188 2 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 0 18 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 245 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 144 1 0 0 0 0 0 1 0 0 0 0 84 97 104 111 109 97 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  
+
+[MasterThemeSelector]
+MTSM=DABJDKT
+ThemeColorBPP=4
+
+
+
+[VisualStyles]
+Path=
+ColorStyle=@themeui.dll,-854
+Size=@themeui.dll,-2019
+Transparency=0
+ColorizationColor=0XECF0696F
+Composition=0
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=

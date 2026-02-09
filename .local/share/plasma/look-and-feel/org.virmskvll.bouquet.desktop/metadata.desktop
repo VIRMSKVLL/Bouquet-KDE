@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Made with love by VIRMSKVLL, Bouquet Suite III is an adaption of Nivvu's Bouquet theme(s) for Windows. This theme restores the Scientifica Font, the original cursor set (which has been tweaked and ported), adapts the window decorations, and even comes with a matching windows .theme file for Wine/Proton (including matching Hammer++ icon replacements for the source engine nerds)
+Name=Bouquet Suite
+X-KDE-PluginInfo-Author=VIRMSKVLL
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=org.virmskvll.bouquet.desktop
+X-KDE-PluginInfo-Version=3.2
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=

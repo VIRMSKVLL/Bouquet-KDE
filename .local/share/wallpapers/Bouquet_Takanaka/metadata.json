@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "VIRMSKVLL"
+            }
+        ],
+        "Id": "bouquet4",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Bouquet Takanaka"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#141E23"
+}
