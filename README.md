@@ -18,12 +18,13 @@ This theme includes:
 ![preview](./.local/share/plasma/look-and-feel/org.virmskvll.bouquet.desktop/contents/previews/fullscreenpreview.jpg)
 
 # HOW TO INSTALL:
-1. MERGE included '.local' with your user`s '.local' folder
-2. SELECT global theme
-3. make your layout
-4. go to font settings and change font styles for all fonts to be `scientifica 10pt`
-5. select optional branding icons for control center and start orb from the extra included icons (also locatable under .local/share/icons/bouquet-extra)
-5.a. right click your library folders and swap their icons with the included .ico files from the bouquet-extra icon pack (not searchable from the icon search)
+1. Merge included '.local' with your user`s '.local' folder
+2. Select global theme
+3. Make your own layout like a boss
+4. Go to font settings and change font styles for all fonts to be `scientifica 10pt`
+5. Select optional branding icons for control center and start orb from the extra included icons (also locatable under .local/share/icons/bouquet-extra)
+5.a. Right click your library folders and swap their icons with the included .ico files from the bouquet-extra icon pack
+`(not searchable from the icon search, will be changed in the future)`
  
 # HOW TO INSTALL PROTON/WINE THEME
 1. for proton users install protontricks, for wine users use winetricks.
