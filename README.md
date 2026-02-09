@@ -23,7 +23,7 @@ This theme includes:
 3. Make your own layout like a boss
 4. Go to font settings and change font styles for all fonts to be `scientifica 10pt`
 5. Select optional branding icons for control center and start orb from the extra included icons (also locatable under .local/share/icons/bouquet-extra)
-5.a. Right click your library folders and swap their icons with the included .ico files from the bouquet-extra icon pack
+5.a. Right click your library folders and swap their icons with the included .ico files from the bouquet-extra icon pack<br>
 `(not searchable from the icon search, will be changed in the future)`
  
 # HOW TO INSTALL PROTON/WINE THEME
