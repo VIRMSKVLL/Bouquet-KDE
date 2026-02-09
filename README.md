@@ -1,11 +1,21 @@
 # ABOUT
 Made with love by VIRMSKVLL, Bouquet Suite III is an adaption of Niivu's Bouquet theme(s) for Windows.
 
-This theme restores the Scientifica Font, the original cursor set (which has been tweaked and ported),
-adapts the window decorations, and even comes with a matching windows .theme file for Wine/Proton
-(including matching Hammer++ icon replacements for the source engine nerds)
+This theme includes:
+- Fully adapted window decorations
+- The Bouquet color scheme
+- Complimentary wallpapers
+- New original start logo made by VIRMSKVLL
+- A restored copy of the Scientifica font (No clue why that was basically lost media)
+- An updated version of the Bouquet light and dark cursor-set with better loading animations<br>
+`(colors are kept but spinner spins correctly)`
+- A matching windows.theme file for Proton/Wine
+- Matching transparent icons for Hammer++ for the source engine nerds out there
+- A modified matching version of refact0r's system24 Discord theme
+- Bonus Library Icons from the original theme
 
-![preview](\./local/share/plasma/look-and-feel/.org.virmskvll.bouquet.desktop/contents/previews/fullscreenpreiview.jpg)
+`Layout not yet included`
+![preview](./.local/share/plasma/look-and-feel/org.virmskvll.bouquet.desktop/contents/previews/fullscreenpreview.jpg)
 
 # HOW TO INSTALL:
 1. MERGE included '.local' with your user`s '.local' folder
