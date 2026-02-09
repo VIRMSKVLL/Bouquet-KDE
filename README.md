@@ -5,6 +5,8 @@ This theme restores the Scientifica Font, the original cursor set (which has bee
 adapts the window decorations, and even comes with a matching windows .theme file for Wine/Proton
 (including matching Hammer++ icon replacements for the source engine nerds)
 
+![preview](./local/share/plasma/look-and-feel/.org.virmskvll.bouquet.desktop/contents/previews/fullscreenpreiview.jpg)
+
 # HOW TO INSTALL:
 1. MERGE included '.local' with your user`s '.local' folder
 2. SELECT global theme
